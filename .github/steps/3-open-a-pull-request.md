@@ -25,7 +25,7 @@ To create a pull request automatically, click **Compare & pull request** button,
 
 4. Click **Create pull request**.
 
-5. Enter a title for your pull request. By default, the title will be your commit message. For this exercise, let's edit the field to say `Add PROFILE Markdown`.
+5. Enter a title for your pull request. By default, the title will be your commit message. For this exercise, let's edit the field to say `Add my first file`.
 
 6. The next field helps you provide a **description** of the changes you made. Please enter a short description of what you’ve accomplished so far. As a reminder, you have: created a new branch, created a file, and made a commit.
 
